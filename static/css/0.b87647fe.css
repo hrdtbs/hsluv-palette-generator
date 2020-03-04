@@ -1,0 +1,26 @@
+html, body{
+    font-family: cursive;
+    -webkit-font-smoothing: antialiased;
+}
+
+text{
+    display: none;
+}
+
+input{
+    -webkit-appearance: none;
+    appearance: none;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid gray;
+    padding-left: 0.5em;
+    width: 125px;
+}
+
+button{
+    outline: none;
+    box-shadow: 1px 1px 2px 0px gray;    
+    padding: 0.1em 0.5em;
+    margin-right: 0.3em;
+    margin-bottom: 0.3em;
+}
